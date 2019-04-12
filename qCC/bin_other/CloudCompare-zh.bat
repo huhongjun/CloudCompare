@@ -1,0 +1,1 @@
+CloudCompare.exe -lang translations/CloudCompare_zh_CN.qm
