@@ -1,6 +1,5 @@
 2019.03.18
-	vs2017+qt5.6.3 编译CloudCompare2.10.2 成功,但调试找不到dll
-
+	vs2017+qt5.6.3 编译CloudCompare2.10.2 成功,但调试找不到dll，需手动配置dll路径。
 	pdal
 
 ok
